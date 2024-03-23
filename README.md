@@ -1,6 +1,6 @@
-# Macitor: A Simple Text Editor for Flutter
+# Macitor: A Simple Text Editor for Mac
 
-Macitor is a minimalist text editor built using Flutter, designed to provide users with a simple yet effective tool for editing text files on their mobile devices. With Macitor, users can effortlessly open existing text files, create new ones, and save their work for future use.
+Macitor is a minimalist text editor built using Flutter, designed to provide users with a simple yet effective tool for editing text files on their devices. With Macitor, users can effortlessly open existing text files, create new ones, and save their work for future use.
 
 ## Features
 
